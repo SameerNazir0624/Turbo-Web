@@ -1,7 +1,8 @@
 # How I Made My Website Load in 0.364 Seconds | Build and Deploy
-![Platform](https://i.ibb.co/Cmc2FhW/Thumbnail-11.png)
+!![image](https://github.com/user-attachments/assets/38d0dc8a-a7f0-4c21-94f6-815d5421d95e)
 
-## https://jsmastery.pro/resources
+
+## (https://turbo-web-rho.vercel.app/)
 
 
 # Technologies and Frameworks
